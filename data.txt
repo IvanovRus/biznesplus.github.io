@@ -1,0 +1,15 @@
+# brand :: name :: price :: qnt
+Apple :: iPhone 6S 64Gb :: 40000 :: 1
+Apple :: iPhone 6S 324Gb :: 35000 :: 3
+Apple :: iPhone SE 16Gb :: 30000 :: 6
+Samsung :: Galaxy S7 32Gb :: 35000 :: 3
+Samsung :: Galaxy S6 Edge 32Gb :: 30000 :: 2
+Samsung :: Galaxy A9 Pro SM-A910F/DS :: 35000 :: 1
+Samsung :: Galaxy J7 SM-J710F :: 16000 :: 4
+HTC :: One A9 :: 19000 :: 6
+HTC :: One M9 :: 30000 :: 2
+HTC :: One E9 Plus :: 20000 :: 4
+LG :: G4 H818 :: 20000 :: 2
+LG :: G4s H736 :: 12000 :: 8
+LG :: G5 SE H845 :: 38000 :: 2
+LG :: Nexus 5X H791 16Gb :: 15000 :: 1
